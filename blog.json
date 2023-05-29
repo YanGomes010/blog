@@ -1,0 +1,32 @@
+{
+  "noticias": [
+    {
+      "id": "0",
+      "url": "./images/imagem_0.jpg",
+      "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
+      "data": "24/01/2023",
+      "redator": "Yan"
+    },
+    {
+      "id": "1",
+       "url": "./images/imagem_0.jpg",
+      "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
+      "data": "22/03/2012",
+      "redator": "Yan"
+    },
+    {
+      "id": "2",
+       "url": "./images/imagem_0.jpg",
+      "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
+      "data": "12/01/2015",
+      "redator": "Yan"
+    },
+    {
+      "id": "3",
+       "url": "./images/imagem_0.jpg",
+      "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever",
+      "data": "29/07/2010",
+      "redator": "Yan"
+    }
+  ]
+}
